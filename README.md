@@ -1,2 +1,0 @@
-# lecture
-Lectures Videos
